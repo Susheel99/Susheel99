@@ -1,4 +1,4 @@
-# Susheel Arukonda
+# Hi, I'm Susheel Arukonda
 
 Security engineer and M.S. Computer Science graduate focused on cyber threat intelligence, detection engineering, vulnerability management, and AI-assisted security automation.
 
